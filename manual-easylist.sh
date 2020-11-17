@@ -1,4 +1,5 @@
 #!/bin/bash
+#source: https://gist.github.com/g3rhard/71fe0b95e69736f442dff5e8615245bf
 for source in $(cat list.lst); do
     echo $source;
         curl --silent $source >> ads.txt
@@ -16,7 +17,7 @@ for source in $(cat list.lst); do
 	    echo -e "\t`wc -l ads_unique.txt | cut -d " " -f 1` lines after deduping"
 	    
 	    cat ads_unique.txt >> adblock.raw
-	    sort -u adblock.raw > adblock.hosts
+	    sort -u adblock.raw > adblock_list/adblock.hosts
 
 	    rm adblock.raw
 	    rm ads_unique.txt
