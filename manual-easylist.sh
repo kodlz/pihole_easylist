@@ -22,6 +22,7 @@ for source in $(cat list.lst); do
 	    rm adblock.raw
 	    rm ads_unique.txt
 
+# in case of straight import to pihole:	    
 #	    cat ads_unique.txt >> /etc/pihole/adblock.raw
 #	    sort -u /etc/pihole/adblock.raw > /var/www/html/pihole/adblock.hosts
 #	    cp /etc/pihole/adblock.raw /root/adblock.list

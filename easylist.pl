@@ -1,5 +1,5 @@
 #!/usr/bin/perl -w
-#Source: https://newspaint.wordpress.com/2014/08/18/filtering-easylist-for-hosts-file-style-adblock/
+#Source: https://newspaint.wordpress.com/2014/08/18/filtering-easylist-for-hosts-file-style-adblock/ 
 
 use strict;
 
