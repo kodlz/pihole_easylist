@@ -1,22 +1,35 @@
+#EasyPrivacy and EasyList combination subscription
 https://easylist-downloads.adblockplus.org/easylist.txt
-https://easylist-downloads.adblockplus.org/easylistczechslovak+easylist.txt
-https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt
 https://easylist-downloads.adblockplus.org/easyprivacy+easylist.txt
 https://easylist-downloads.adblockplus.org/easyprivacy.txt
+
+#EasyList Czech and Slovak and EasyList combination subscription
+https://easylist-downloads.adblockplus.org/easylistczechslovak+easylist.txt
+https://raw.github.com/tomasko126/easylistczechandslovak/master/filters.txt
+
+#Hufilter - The Hungarian Adblock List
 https://raw.githubusercontent.com/szpeter80/hufilter/master/hufilter.txt
-http://pgl.yoyo.org/adservers/serverlist.php?hostformat
+
+#Adblock Warning Removal List
 https://easylist-downloads.adblockplus.org/antiadblockfilters.txt
+
+#Fanboy's Annoyance List
 https://easylist-downloads.adblockplus.org/fanboy-annoyance.txt
+
+#Fanboy's Social Blocking List
 https://easylist-downloads.adblockplus.org/fanboy-social.txt
-http://www.kiboke-studio.hr/i-dont-care-about-cookies/abp/
-https://easylist-downloads.adblockplus.org/malwaredomains_full.txt
-https://raw.github.com/liamja/Prebake/master/obtrusive.txt
-https://raw.githubusercontent.com/Dawsey21/Lists/master/adblock-list.txt
+
+#protects you from online scams with data collected by Spam404.com.
+https://raw.githubusercontent.com/Spam404/lists/master/adblock-list.txt
+
+#Android AdBlock Hosts
 https://raw.githubusercontent.com/DataMaster-2501/DataMaster-Android-AdBlock-Hosts/master/hosts
-https://raw.githubusercontent.com/tomasko126/easylistczechandslovak/master/filters.txt
 https://abpvn.com/android/abpvn.txt
 https://filters.adtidy.org/android/filters/11.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/specific_app.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/css_extended.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt
+
+#youtube adblock
 https://raw.githubusercontent.com/eEIi0A5L/adblock_filter/master/youtube_wo_tonikaku_filter.txt
-https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-Ultra-AdBlock-Filter.txt
-https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/filter_blocklist.txt
 https://easylist-downloads.adblockplus.org/yt_annoyances_full.txt
