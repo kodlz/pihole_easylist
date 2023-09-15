@@ -1,6 +1,6 @@
 #!/bin/bash
 #source: https://gist.github.com/g3rhard/71fe0b95e69736f442dff5e8615245bf
-for source in $(cat list.lst); do
+for source in $(cat list.lst | grep -v '^#'); do
     echo $source;
         curl --silent $source >> ads.txt
 	    echo -e "\t`wc -l ads.txt | cut -d " " -f 1` lines downloaded"
